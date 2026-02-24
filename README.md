@@ -101,5 +101,3 @@ Through this project, I gained hands-on experience in:
 ## 📌 Acknowledgment
 
 This project was completed with the help of guided assistance and explanations provided by an AI-based programming assistant, which supported learning, debugging, and understanding best practices during development.
-
-```
